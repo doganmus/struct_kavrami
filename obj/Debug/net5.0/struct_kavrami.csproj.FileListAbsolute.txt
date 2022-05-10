@@ -1,0 +1,16 @@
+D:\education\PatikaPratikler\struct_kavrami\bin\Debug\net5.0\struct_kavrami.exe
+D:\education\PatikaPratikler\struct_kavrami\bin\Debug\net5.0\struct_kavrami.deps.json
+D:\education\PatikaPratikler\struct_kavrami\bin\Debug\net5.0\struct_kavrami.runtimeconfig.json
+D:\education\PatikaPratikler\struct_kavrami\bin\Debug\net5.0\struct_kavrami.runtimeconfig.dev.json
+D:\education\PatikaPratikler\struct_kavrami\bin\Debug\net5.0\struct_kavrami.dll
+D:\education\PatikaPratikler\struct_kavrami\bin\Debug\net5.0\struct_kavrami.pdb
+D:\education\PatikaPratikler\struct_kavrami\obj\Debug\net5.0\struct_kavrami.csproj.AssemblyReference.cache
+D:\education\PatikaPratikler\struct_kavrami\obj\Debug\net5.0\struct_kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\PatikaPratikler\struct_kavrami\obj\Debug\net5.0\struct_kavrami.AssemblyInfoInputs.cache
+D:\education\PatikaPratikler\struct_kavrami\obj\Debug\net5.0\struct_kavrami.AssemblyInfo.cs
+D:\education\PatikaPratikler\struct_kavrami\obj\Debug\net5.0\struct_kavrami.csproj.CoreCompileInputs.cache
+D:\education\PatikaPratikler\struct_kavrami\obj\Debug\net5.0\struct_kavrami.dll
+D:\education\PatikaPratikler\struct_kavrami\obj\Debug\net5.0\refint\struct_kavrami.dll
+D:\education\PatikaPratikler\struct_kavrami\obj\Debug\net5.0\struct_kavrami.pdb
+D:\education\PatikaPratikler\struct_kavrami\obj\Debug\net5.0\struct_kavrami.genruntimeconfig.cache
+D:\education\PatikaPratikler\struct_kavrami\obj\Debug\net5.0\ref\struct_kavrami.dll
